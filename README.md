@@ -14,7 +14,13 @@
 🚀 Coding Skills: ['Java ☕️', 'Python 🐍', 'JavaScript ⚡️']
 
 >>> sola.frameworks
-🛠️ Frameworks: ['React.js ⚛️', 'MongoDB 🍃', 'Express 🚂', 'Node.js 🌐']
+🛠️ Frameworks: ['React.js ⚛️']
+
+>>> sola.backend_skills
+🛠️ Backend: ['MongoDB 🍃', 'Express 🚂', 'Node.js 🌐', 'Firebase']
+
+>>> sola.learning
+💻 Currently Learning: ['Flutter', 'Dart']
 ```
 
 ---
