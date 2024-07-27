@@ -20,7 +20,7 @@
 🛠️ Backend: ['MongoDB 🍃', 'Express 🚂', 'Node.js 🌐', 'Firebase']
 
 >>> sola.learning
-💻 Currently Learning: ['Flutter', 'Dart']
+💻 Currently Learning: ['Flutter', 'Dart', '.Net']
 ```
 
 ---
