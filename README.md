@@ -11,10 +11,7 @@
 🌟 Interests: ['Reading 📚', 'Coding 💻', 'Animation 🎬', 'Games 🎮', 'BUNNY 🐰']
 
 >>> sola.coding_skills
-🚀 Coding Skills: ['Java ☕️', 'Python 🐍', 'JavaScript ⚡️']
-
->>> sola.frameworks
-🛠️ Frameworks: ['React.js ⚛️', 'Django 🐍']
+🚀 Coding Skills: ['Java ☕️', 'Python 🐍', 'JavaScript ⚡️', 'React.js ⚛️', 'Django 🐍']
 
 >>> sola.backend_skills
 🛠️ Backend: ['MongoDB 🍃', 'Express 🚂', 'Node.js 🌐', 'Firebase']
