@@ -22,8 +22,9 @@
 💻 Currently Learning: ['Flutter', 'Dart', '.Net']
 ```
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sola0404&size_weight=0.5&count_weight=0.5&layout=donut">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sola0404&size_weight=0.5&count_weight=0.5&layout=donut">
 </p>
+<br>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Sola0404&theme=tokyonight-duo">
 </p>
