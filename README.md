@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20there!%20I'm%20Sola:D-nl-A%20Full-Stack%20Web%20Developer&height=300&fontSize=50&fontAlign=70&fontAlign=60&fontAlignY=20&fontAlignY=50)
+
 ```python
 >>> import sola
 
@@ -19,6 +21,13 @@
 >>> sola.learning
 💻 Currently Learning: ['Flutter', 'Dart', '.Net']
 ```
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sola0404&size_weight=0.5&count_weight=0.5&layout=donut">
+
+<img src="https://streak-stats.demolab.com/?user=Sola0404&theme=tokyonight-duo" hspace="20">
+
+<br clear="left">
+<br>
 
 ---
 
