@@ -1,5 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20there!%20I'm%20Sola:D-nl-A%20Full-Stack%20Web%20Developer&height=300&fontSize=50&fontAlign=70&fontAlign=60&fontAlignY=20&fontAlignY=50)
 
+## 👩 A Full-Stack Developer & Academic Tutor
+
+- Passionate in <strong>UI/UX design</strong> and <strong>web development</strong>
+
+- An academic tutor at ANU
+
+### 💜 **My Portfolio：**
+
+- <a href="https://sola0404.github.io/portfolio/">🏠 Click On Me!</a>
+
+### 👤 **About Me**
+
 ```python
 >>> import sola
 
@@ -21,17 +33,12 @@
 >>> sola.learning
 💻 Currently Learning: ['Flutter', 'Dart', '.Net']
 ```
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sola0404&size_weight=0.5&count_weight=0.5&layout=donut">
-</p>
-<br>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sola0404&theme=tokyonight-duo">
-</p>
 
-<br>
+### 💻 Github Activities
 
----
+![](https://streak-stats.demolab.com/?user=Sola0404&theme=tokyonight-duo)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sola0404&size_weight=0.5&count_weight=0.5&layout=donut)
 
 ### 🌐 Connect with Me:
 
